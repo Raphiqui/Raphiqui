@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software engineer and swimmer who have been living <br>in Spain for more than 5 years now
-
+Software engineer, sharks passionate and swimmer 🏊‍♂️, living in Madrid.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raphaëlpastre) 
