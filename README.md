@@ -1,6 +1,8 @@
 # 💫 About Me:
 Software engineer, sharks passionate and swimmer 🏊‍♂️, living in Madrid.
 
+FUBAR
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raphaëlpastre) 
 
